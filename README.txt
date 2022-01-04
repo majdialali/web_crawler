@@ -1,4 +1,4 @@
-ACIT4420 - “Problem-solving with scripting” – Fall Semester 2021 
+ ACIT4420 - “Problem-solving with scripting”, master subject at OsloMet – Fall Semester 2021 
  
 Final project submission and evaluation 
  
